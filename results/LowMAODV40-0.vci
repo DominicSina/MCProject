@@ -1,0 +1,1728 @@
+file 178403 1460743385                                          
+version 2
+run LowMAODV40-0-20160415-19:52:31-6896
+attr configname LowMAODV40
+attr datetime 20160415-19:52:31
+attr experiment LowMAODV40
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network MCProjectNetwork
+attr processid 6896
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 10  MCProjectNetwork.host[0].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 25  MCProjectNetwork.host[1].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 40  MCProjectNetwork.host[2].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 55  MCProjectNetwork.host[3].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 70  MCProjectNetwork.host[4].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 85  MCProjectNetwork.host[5].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 100  MCProjectNetwork.host[6].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 115  MCProjectNetwork.host[7].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 130  MCProjectNetwork.host[8].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 145  MCProjectNetwork.host[9].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 160  MCProjectNetwork.host[10].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 175  MCProjectNetwork.host[11].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 190  MCProjectNetwork.host[12].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 205  MCProjectNetwork.host[13].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 220  MCProjectNetwork.host[14].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 235  MCProjectNetwork.host[15].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 250  MCProjectNetwork.host[16].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 265  MCProjectNetwork.host[17].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 280  MCProjectNetwork.host[18].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 295  MCProjectNetwork.host[19].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 310  MCProjectNetwork.host[20].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 325  MCProjectNetwork.host[21].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 340  MCProjectNetwork.host[22].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 355  MCProjectNetwork.host[23].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 370  MCProjectNetwork.host[24].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 385  MCProjectNetwork.host[25].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 400  MCProjectNetwork.host[26].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 415  MCProjectNetwork.host[27].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 430  MCProjectNetwork.host[28].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 445  MCProjectNetwork.host[29].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 460  MCProjectNetwork.host[30].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 475  MCProjectNetwork.host[31].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 490  MCProjectNetwork.host[32].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 505  MCProjectNetwork.host[33].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 520  MCProjectNetwork.host[34].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 535  MCProjectNetwork.host[35].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 550  MCProjectNetwork.host[36].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 565  MCProjectNetwork.host[37].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 580  MCProjectNetwork.host[38].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 595  MCProjectNetwork.host[39].wlan[0].mgmt  dataQueueLen:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "data queue length, vector"
+vector 607  MCProjectNetwork.host[0].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 606  MCProjectNetwork.host[0].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 614  MCProjectNetwork.host[1].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 613  MCProjectNetwork.host[1].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 621  MCProjectNetwork.host[2].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 620  MCProjectNetwork.host[2].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 628  MCProjectNetwork.host[3].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 627  MCProjectNetwork.host[3].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 635  MCProjectNetwork.host[4].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 634  MCProjectNetwork.host[4].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 642  MCProjectNetwork.host[5].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 641  MCProjectNetwork.host[5].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 649  MCProjectNetwork.host[6].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 648  MCProjectNetwork.host[6].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 656  MCProjectNetwork.host[7].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 655  MCProjectNetwork.host[7].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 663  MCProjectNetwork.host[8].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 662  MCProjectNetwork.host[8].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 670  MCProjectNetwork.host[9].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 669  MCProjectNetwork.host[9].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 677  MCProjectNetwork.host[10].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 676  MCProjectNetwork.host[10].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 684  MCProjectNetwork.host[11].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 683  MCProjectNetwork.host[11].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 691  MCProjectNetwork.host[12].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 690  MCProjectNetwork.host[12].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 698  MCProjectNetwork.host[13].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 697  MCProjectNetwork.host[13].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 705  MCProjectNetwork.host[14].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 704  MCProjectNetwork.host[14].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 712  MCProjectNetwork.host[15].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 711  MCProjectNetwork.host[15].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 719  MCProjectNetwork.host[16].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 718  MCProjectNetwork.host[16].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 726  MCProjectNetwork.host[17].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 725  MCProjectNetwork.host[17].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 733  MCProjectNetwork.host[18].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 732  MCProjectNetwork.host[18].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 740  MCProjectNetwork.host[19].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 739  MCProjectNetwork.host[19].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 747  MCProjectNetwork.host[20].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 746  MCProjectNetwork.host[20].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 754  MCProjectNetwork.host[21].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 753  MCProjectNetwork.host[21].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 761  MCProjectNetwork.host[22].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 760  MCProjectNetwork.host[22].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 768  MCProjectNetwork.host[23].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 767  MCProjectNetwork.host[23].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 775  MCProjectNetwork.host[24].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 774  MCProjectNetwork.host[24].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 782  MCProjectNetwork.host[25].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 781  MCProjectNetwork.host[25].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 789  MCProjectNetwork.host[26].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 788  MCProjectNetwork.host[26].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 796  MCProjectNetwork.host[27].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 795  MCProjectNetwork.host[27].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 803  MCProjectNetwork.host[28].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 802  MCProjectNetwork.host[28].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 810  MCProjectNetwork.host[29].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 809  MCProjectNetwork.host[29].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 817  MCProjectNetwork.host[30].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 816  MCProjectNetwork.host[30].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 824  MCProjectNetwork.host[31].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 823  MCProjectNetwork.host[31].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 831  MCProjectNetwork.host[32].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 830  MCProjectNetwork.host[32].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 838  MCProjectNetwork.host[33].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 837  MCProjectNetwork.host[33].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 845  MCProjectNetwork.host[34].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 844  MCProjectNetwork.host[34].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 852  MCProjectNetwork.host[35].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 851  MCProjectNetwork.host[35].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 859  MCProjectNetwork.host[36].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 858  MCProjectNetwork.host[36].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 866  MCProjectNetwork.host[37].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 865  MCProjectNetwork.host[37].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 873  MCProjectNetwork.host[38].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 872  MCProjectNetwork.host[38].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 880  MCProjectNetwork.host[39].wlan[0].mac  RadioState  ETV
+attr enum  "IDLE=0, OFF=4, RECV=1, SLEEP=3, TRANSMIT=2"
+attr enumname  RadioState
+vector 879  MCProjectNetwork.host[39].wlan[0].mac  State  ETV
+attr enum  "BACKOFF=3, DEFER=1, IDLE=0, RECEIVE=8, WAITACK=4, WAITAIFS=2, WAITCTS=6, WAITMULTICAST=5, WAITSIFS=7"
+attr enumname  Ieee80211Mac
+vector 16  MCProjectNetwork.host[0].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 18  MCProjectNetwork.host[0].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 17  MCProjectNetwork.host[0].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 31  MCProjectNetwork.host[1].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 33  MCProjectNetwork.host[1].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 32  MCProjectNetwork.host[1].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 46  MCProjectNetwork.host[2].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 48  MCProjectNetwork.host[2].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 47  MCProjectNetwork.host[2].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 61  MCProjectNetwork.host[3].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 63  MCProjectNetwork.host[3].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 62  MCProjectNetwork.host[3].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 76  MCProjectNetwork.host[4].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 78  MCProjectNetwork.host[4].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 77  MCProjectNetwork.host[4].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 91  MCProjectNetwork.host[5].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 93  MCProjectNetwork.host[5].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 92  MCProjectNetwork.host[5].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 106  MCProjectNetwork.host[6].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 108  MCProjectNetwork.host[6].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 107  MCProjectNetwork.host[6].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 121  MCProjectNetwork.host[7].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 123  MCProjectNetwork.host[7].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 122  MCProjectNetwork.host[7].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 136  MCProjectNetwork.host[8].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 138  MCProjectNetwork.host[8].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 137  MCProjectNetwork.host[8].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 151  MCProjectNetwork.host[9].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 153  MCProjectNetwork.host[9].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 152  MCProjectNetwork.host[9].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 166  MCProjectNetwork.host[10].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 168  MCProjectNetwork.host[10].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 167  MCProjectNetwork.host[10].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 181  MCProjectNetwork.host[11].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 183  MCProjectNetwork.host[11].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 182  MCProjectNetwork.host[11].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 196  MCProjectNetwork.host[12].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 198  MCProjectNetwork.host[12].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 197  MCProjectNetwork.host[12].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 211  MCProjectNetwork.host[13].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 213  MCProjectNetwork.host[13].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 212  MCProjectNetwork.host[13].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 226  MCProjectNetwork.host[14].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 228  MCProjectNetwork.host[14].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 227  MCProjectNetwork.host[14].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 241  MCProjectNetwork.host[15].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 243  MCProjectNetwork.host[15].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 242  MCProjectNetwork.host[15].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 256  MCProjectNetwork.host[16].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 258  MCProjectNetwork.host[16].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 257  MCProjectNetwork.host[16].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 271  MCProjectNetwork.host[17].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 273  MCProjectNetwork.host[17].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 272  MCProjectNetwork.host[17].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 286  MCProjectNetwork.host[18].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 288  MCProjectNetwork.host[18].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 287  MCProjectNetwork.host[18].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 301  MCProjectNetwork.host[19].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 303  MCProjectNetwork.host[19].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 302  MCProjectNetwork.host[19].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 316  MCProjectNetwork.host[20].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 318  MCProjectNetwork.host[20].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 317  MCProjectNetwork.host[20].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 331  MCProjectNetwork.host[21].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 333  MCProjectNetwork.host[21].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 332  MCProjectNetwork.host[21].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 346  MCProjectNetwork.host[22].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 348  MCProjectNetwork.host[22].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 347  MCProjectNetwork.host[22].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 361  MCProjectNetwork.host[23].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 363  MCProjectNetwork.host[23].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 362  MCProjectNetwork.host[23].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 376  MCProjectNetwork.host[24].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 378  MCProjectNetwork.host[24].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 377  MCProjectNetwork.host[24].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 391  MCProjectNetwork.host[25].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 393  MCProjectNetwork.host[25].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 392  MCProjectNetwork.host[25].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 406  MCProjectNetwork.host[26].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 408  MCProjectNetwork.host[26].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 407  MCProjectNetwork.host[26].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 421  MCProjectNetwork.host[27].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 423  MCProjectNetwork.host[27].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 422  MCProjectNetwork.host[27].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 436  MCProjectNetwork.host[28].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 438  MCProjectNetwork.host[28].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 437  MCProjectNetwork.host[28].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 451  MCProjectNetwork.host[29].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 453  MCProjectNetwork.host[29].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 452  MCProjectNetwork.host[29].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 466  MCProjectNetwork.host[30].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 468  MCProjectNetwork.host[30].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 467  MCProjectNetwork.host[30].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 481  MCProjectNetwork.host[31].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 483  MCProjectNetwork.host[31].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 482  MCProjectNetwork.host[31].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 496  MCProjectNetwork.host[32].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 498  MCProjectNetwork.host[32].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 497  MCProjectNetwork.host[32].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 511  MCProjectNetwork.host[33].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 513  MCProjectNetwork.host[33].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 512  MCProjectNetwork.host[33].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 526  MCProjectNetwork.host[34].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 528  MCProjectNetwork.host[34].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 527  MCProjectNetwork.host[34].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 541  MCProjectNetwork.host[35].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 543  MCProjectNetwork.host[35].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 542  MCProjectNetwork.host[35].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 556  MCProjectNetwork.host[36].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 558  MCProjectNetwork.host[36].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 557  MCProjectNetwork.host[36].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 571  MCProjectNetwork.host[37].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 573  MCProjectNetwork.host[37].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 572  MCProjectNetwork.host[37].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 586  MCProjectNetwork.host[38].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 588  MCProjectNetwork.host[38].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 587  MCProjectNetwork.host[38].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 601  MCProjectNetwork.host[39].wlan[0].radio  bitrate:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "tx bitrate, vector"
+attr unit  bps
+vector 603  MCProjectNetwork.host[39].wlan[0].radio  radioState:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "radio state (enum), vector"
+vector 602  MCProjectNetwork.host[39].wlan[0].radio  channelNo:vector  ETV
+attr interpolationmode  sample-hold
+attr title  "channel no, vector"
+vector 3  MCProjectNetwork.host[0].pingApp[0]  pingTxSeq:vector  ETV
+attr interpolationmode  none
+attr title  "ping tx seq, vector"
+vector 14  MCProjectNetwork.host[0].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 609  MCProjectNetwork.host[0].wlan[0].mac  "throughput AC0"  ETV
+vector 13  MCProjectNetwork.host[0].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 826  MCProjectNetwork.host[31].wlan[0].mac  "throughput AC0"  ETV
+vector 770  MCProjectNetwork.host[23].wlan[0].mac  "throughput AC0"  ETV
+vector 735  MCProjectNetwork.host[18].wlan[0].mac  "throughput AC0"  ETV
+vector 665  MCProjectNetwork.host[8].wlan[0].mac  "throughput AC0"  ETV
+vector 693  MCProjectNetwork.host[12].wlan[0].mac  "throughput AC0"  ETV
+vector 651  MCProjectNetwork.host[6].wlan[0].mac  "throughput AC0"  ETV
+vector 763  MCProjectNetwork.host[22].wlan[0].mac  "throughput AC0"  ETV
+vector 672  MCProjectNetwork.host[9].wlan[0].mac  "throughput AC0"  ETV
+vector 828  MCProjectNetwork.host[31].wlan[0].radio  snirVector  ETV
+vector 480  MCProjectNetwork.host[31].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 477  MCProjectNetwork.host[31].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 772  MCProjectNetwork.host[23].wlan[0].radio  snirVector  ETV
+vector 360  MCProjectNetwork.host[23].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 357  MCProjectNetwork.host[23].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 737  MCProjectNetwork.host[18].wlan[0].radio  snirVector  ETV
+vector 285  MCProjectNetwork.host[18].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 282  MCProjectNetwork.host[18].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 667  MCProjectNetwork.host[8].wlan[0].radio  snirVector  ETV
+vector 135  MCProjectNetwork.host[8].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 132  MCProjectNetwork.host[8].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 695  MCProjectNetwork.host[12].wlan[0].radio  snirVector  ETV
+vector 195  MCProjectNetwork.host[12].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 192  MCProjectNetwork.host[12].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 653  MCProjectNetwork.host[6].wlan[0].radio  snirVector  ETV
+vector 105  MCProjectNetwork.host[6].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 102  MCProjectNetwork.host[6].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 765  MCProjectNetwork.host[22].wlan[0].radio  snirVector  ETV
+vector 345  MCProjectNetwork.host[22].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 342  MCProjectNetwork.host[22].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 674  MCProjectNetwork.host[9].wlan[0].radio  snirVector  ETV
+vector 150  MCProjectNetwork.host[9].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 147  MCProjectNetwork.host[9].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 344  MCProjectNetwork.host[22].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 343  MCProjectNetwork.host[22].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 756  MCProjectNetwork.host[21].wlan[0].mac  "throughput AC0"  ETV
+vector 840  MCProjectNetwork.host[33].wlan[0].mac  "throughput AC0"  ETV
+vector 644  MCProjectNetwork.host[5].wlan[0].mac  "throughput AC0"  ETV
+vector 833  MCProjectNetwork.host[32].wlan[0].mac  "throughput AC0"  ETV
+vector 882  MCProjectNetwork.host[39].wlan[0].mac  "throughput AC0"  ETV
+vector 700  MCProjectNetwork.host[13].wlan[0].mac  "throughput AC0"  ETV
+vector 791  MCProjectNetwork.host[26].wlan[0].mac  "throughput AC0"  ETV
+vector 658  MCProjectNetwork.host[7].wlan[0].mac  "throughput AC0"  ETV
+vector 721  MCProjectNetwork.host[16].wlan[0].mac  "throughput AC0"  ETV
+vector 749  MCProjectNetwork.host[20].wlan[0].mac  "throughput AC0"  ETV
+vector 686  MCProjectNetwork.host[11].wlan[0].mac  "throughput AC0"  ETV
+vector 777  MCProjectNetwork.host[24].wlan[0].mac  "throughput AC0"  ETV
+vector 798  MCProjectNetwork.host[27].wlan[0].mac  "throughput AC0"  ETV
+vector 861  MCProjectNetwork.host[36].wlan[0].mac  "throughput AC0"  ETV
+vector 784  MCProjectNetwork.host[25].wlan[0].mac  "throughput AC0"  ETV
+vector 623  MCProjectNetwork.host[2].wlan[0].mac  "throughput AC0"  ETV
+vector 758  MCProjectNetwork.host[21].wlan[0].radio  snirVector  ETV
+vector 330  MCProjectNetwork.host[21].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 327  MCProjectNetwork.host[21].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 842  MCProjectNetwork.host[33].wlan[0].radio  snirVector  ETV
+vector 510  MCProjectNetwork.host[33].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 507  MCProjectNetwork.host[33].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 646  MCProjectNetwork.host[5].wlan[0].radio  snirVector  ETV
+vector 90  MCProjectNetwork.host[5].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 87  MCProjectNetwork.host[5].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 835  MCProjectNetwork.host[32].wlan[0].radio  snirVector  ETV
+vector 495  MCProjectNetwork.host[32].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 492  MCProjectNetwork.host[32].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 884  MCProjectNetwork.host[39].wlan[0].radio  snirVector  ETV
+vector 600  MCProjectNetwork.host[39].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 597  MCProjectNetwork.host[39].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 702  MCProjectNetwork.host[13].wlan[0].radio  snirVector  ETV
+vector 210  MCProjectNetwork.host[13].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 207  MCProjectNetwork.host[13].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 793  MCProjectNetwork.host[26].wlan[0].radio  snirVector  ETV
+vector 405  MCProjectNetwork.host[26].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 402  MCProjectNetwork.host[26].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 660  MCProjectNetwork.host[7].wlan[0].radio  snirVector  ETV
+vector 120  MCProjectNetwork.host[7].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 117  MCProjectNetwork.host[7].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 723  MCProjectNetwork.host[16].wlan[0].radio  snirVector  ETV
+vector 255  MCProjectNetwork.host[16].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 252  MCProjectNetwork.host[16].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 751  MCProjectNetwork.host[20].wlan[0].radio  snirVector  ETV
+vector 315  MCProjectNetwork.host[20].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 312  MCProjectNetwork.host[20].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 688  MCProjectNetwork.host[11].wlan[0].radio  snirVector  ETV
+vector 180  MCProjectNetwork.host[11].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 177  MCProjectNetwork.host[11].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 779  MCProjectNetwork.host[24].wlan[0].radio  snirVector  ETV
+vector 375  MCProjectNetwork.host[24].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 372  MCProjectNetwork.host[24].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 800  MCProjectNetwork.host[27].wlan[0].radio  snirVector  ETV
+vector 420  MCProjectNetwork.host[27].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 417  MCProjectNetwork.host[27].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 611  MCProjectNetwork.host[0].wlan[0].radio  snirVector  ETV
+vector 15  MCProjectNetwork.host[0].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 12  MCProjectNetwork.host[0].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 863  MCProjectNetwork.host[36].wlan[0].radio  snirVector  ETV
+vector 555  MCProjectNetwork.host[36].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 552  MCProjectNetwork.host[36].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 786  MCProjectNetwork.host[25].wlan[0].radio  snirVector  ETV
+vector 390  MCProjectNetwork.host[25].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 387  MCProjectNetwork.host[25].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 625  MCProjectNetwork.host[2].wlan[0].radio  snirVector  ETV
+vector 45  MCProjectNetwork.host[2].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 42  MCProjectNetwork.host[2].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 284  MCProjectNetwork.host[18].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 283  MCProjectNetwork.host[18].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 875  MCProjectNetwork.host[38].wlan[0].mac  "throughput AC0"  ETV
+vector 868  MCProjectNetwork.host[37].wlan[0].mac  "throughput AC0"  ETV
+vector 134  MCProjectNetwork.host[8].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 877  MCProjectNetwork.host[38].wlan[0].radio  snirVector  ETV
+vector 585  MCProjectNetwork.host[38].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 582  MCProjectNetwork.host[38].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 870  MCProjectNetwork.host[37].wlan[0].radio  snirVector  ETV
+vector 570  MCProjectNetwork.host[37].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 567  MCProjectNetwork.host[37].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 104  MCProjectNetwork.host[6].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 103  MCProjectNetwork.host[6].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 133  MCProjectNetwork.host[8].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 805  MCProjectNetwork.host[28].wlan[0].mac  "throughput AC0"  ETV
+vector 149  MCProjectNetwork.host[9].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 194  MCProjectNetwork.host[12].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 479  MCProjectNetwork.host[31].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 359  MCProjectNetwork.host[23].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 148  MCProjectNetwork.host[9].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 812  MCProjectNetwork.host[29].wlan[0].mac  "throughput AC0"  ETV
+vector 714  MCProjectNetwork.host[15].wlan[0].mac  "throughput AC0"  ETV
+vector 847  MCProjectNetwork.host[34].wlan[0].mac  "throughput AC0"  ETV
+vector 707  MCProjectNetwork.host[14].wlan[0].mac  "throughput AC0"  ETV
+vector 193  MCProjectNetwork.host[12].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 814  MCProjectNetwork.host[29].wlan[0].radio  snirVector  ETV
+vector 450  MCProjectNetwork.host[29].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 447  MCProjectNetwork.host[29].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 716  MCProjectNetwork.host[15].wlan[0].radio  snirVector  ETV
+vector 240  MCProjectNetwork.host[15].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 237  MCProjectNetwork.host[15].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 849  MCProjectNetwork.host[34].wlan[0].radio  snirVector  ETV
+vector 525  MCProjectNetwork.host[34].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 522  MCProjectNetwork.host[34].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 709  MCProjectNetwork.host[14].wlan[0].radio  snirVector  ETV
+vector 225  MCProjectNetwork.host[14].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 222  MCProjectNetwork.host[14].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 478  MCProjectNetwork.host[31].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 358  MCProjectNetwork.host[23].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 314  MCProjectNetwork.host[20].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 313  MCProjectNetwork.host[20].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 679  MCProjectNetwork.host[10].wlan[0].mac  "throughput AC0"  ETV
+vector 329  MCProjectNetwork.host[21].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 509  MCProjectNetwork.host[33].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 254  MCProjectNetwork.host[16].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 807  MCProjectNetwork.host[28].wlan[0].radio  snirVector  ETV
+vector 435  MCProjectNetwork.host[28].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 432  MCProjectNetwork.host[28].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 681  MCProjectNetwork.host[10].wlan[0].radio  snirVector  ETV
+vector 165  MCProjectNetwork.host[10].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 162  MCProjectNetwork.host[10].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 119  MCProjectNetwork.host[7].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 118  MCProjectNetwork.host[7].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 637  MCProjectNetwork.host[4].wlan[0].mac  "throughput AC0"  ETV
+vector 630  MCProjectNetwork.host[3].wlan[0].mac  "throughput AC0"  ETV
+vector 742  MCProjectNetwork.host[19].wlan[0].mac  "throughput AC0"  ETV
+vector 728  MCProjectNetwork.host[17].wlan[0].mac  "throughput AC0"  ETV
+vector 854  MCProjectNetwork.host[35].wlan[0].mac  "throughput AC0"  ETV
+vector 616  MCProjectNetwork.host[1].wlan[0].mac  "throughput AC0"  ETV
+vector 819  MCProjectNetwork.host[30].wlan[0].mac  "throughput AC0"  ETV
+vector 239  MCProjectNetwork.host[15].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 494  MCProjectNetwork.host[32].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 639  MCProjectNetwork.host[4].wlan[0].radio  snirVector  ETV
+vector 75  MCProjectNetwork.host[4].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 72  MCProjectNetwork.host[4].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 632  MCProjectNetwork.host[3].wlan[0].radio  snirVector  ETV
+vector 60  MCProjectNetwork.host[3].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 57  MCProjectNetwork.host[3].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 744  MCProjectNetwork.host[19].wlan[0].radio  snirVector  ETV
+vector 300  MCProjectNetwork.host[19].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 297  MCProjectNetwork.host[19].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 730  MCProjectNetwork.host[17].wlan[0].radio  snirVector  ETV
+vector 270  MCProjectNetwork.host[17].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 267  MCProjectNetwork.host[17].wlan[0].mac  passedUpPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToUpper
+attr title  "packets passed to higher layer, vector(packetBytes)"
+vector 856  MCProjectNetwork.host[35].wlan[0].radio  snirVector  ETV
+vector 540  MCProjectNetwork.host[35].wlan[0].mac  rcvdPkFromLL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromLower
+attr title  "packets received from lower layer, vector(packetBytes)"
+vector 253  MCProjectNetwork.host[16].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 238  MCProjectNetwork.host[15].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+vector 569  MCProjectNetwork.host[37].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 554  MCProjectNetwork.host[36].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 374  MCProjectNetwork.host[24].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 599  MCProjectNetwork.host[39].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 404  MCProjectNetwork.host[26].wlan[0].mac  rcvdPkFromHL:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetReceivedFromUpper
+attr title  "packets received from higher layer, vector(packetBytes)"
+vector 328  MCProjectNetwork.host[21].wlan[0].mac  sentDownPk:vector(packetBytes)  ETV
+attr interpolationmode  none
+attr source  packetSentToLower
+attr title  "packets sent to lower layer, vector(packetBytes)"
+3	69668 24 822 822 3.195254009217 3.195254009217 1 0 0 0 0
+10	69692 10 0 0 0 0 1 0 0 0 0
+12	69702 189 1104 2693 3.200202927013 3.521671098114 7 94 94 658 61852
+13	69891 53 831 2126 3.197672049417 3.516881150965 2 94 94 188 17672
+14	69944 53 830 2125 3.197622049417 3.516831150965 2 94 94 188 17672
+15	69997 269 1104 3124 3.200202927013 3.523065098223 10 94 94 940 88360
+16	70266 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+17	70282 10 0 0 0 0 1 0 0 0 0
+18	70292 682 0 3433 0 3.524079589624 27 0 2 15 19
+25	70974 10 0 0 0 0 1 0 0 0 0
+31	70984 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+32	71000 10 0 0 0 0 1 0 0 0 0
+33	71010 88 0 3513 0 3.524169685589 4 0 1 2 2
+40	71098 10 0 0 0 0 1 0 0 0 0
+42	71108 108 1128 3317 3.200202981738 3.524078509346 4 94 94 376 35344
+45	71216 108 1128 3317 3.200202981738 3.524078509346 4 94 94 376 35344
+46	71324 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+47	71340 10 0 0 0 0 1 0 0 0 0
+48	71350 295 0 3520 0 3.524169819286 12 0 1 6 6
+55	71645 10 0 0 0 0 1 0 0 0 0
+57	71655 54 3055 3351 3.523044635802 3.524078843026 2 94 94 188 17672
+60	71709 54 3055 3351 3.523044635802 3.524078843026 2 94 94 188 17672
+61	71763 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+62	71779 10 0 0 0 0 1 0 0 0 0
+63	71789 114 0 3350 0 3.524078843026 5 0 1 2 2
+70	71903 10 0 0 0 0 1 0 0 0 0
+72	71913 54 3031 3357 3.523044587714 3.524078882216 2 94 94 188 17672
+75	71967 54 3031 3357 3.523044587714 3.524078882216 2 94 94 188 17672
+76	72021 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+77	72037 10 0 0 0 0 1 0 0 0 0
+78	72047 140 0 3517 0 3.524169747572 6 0 1 3 3
+85	72187 10 0 0 0 0 1 0 0 0 0
+87	72197 108 1038 3367 3.200202664145 3.524078933534 4 94 94 376 35344
+90	72305 108 1038 3367 3.200202664145 3.524078933534 4 94 94 376 35344
+91	72413 16 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+92	72429 10 0 0 0 0 1 0 0 0 0
+93	72439 295 0 3503 0 3.524169227625 12 0 1 6 6
+100	72734 11 0 0 0 0 1 0 0 0 0
+102	72745 223 905 2429 3.198616677547 3.520445067338 8 94 94 752 70688
+103	72968 28 1345 1345 3.202061075215 3.202061075215 1 94 94 94 8836
+104	72996 56 1344 2425 3.202011075215 3.520018784727 2 94 94 188 17672
+105	73052 335 905 3417 3.198616677547 3.524079107397 12 94 94 1128 106032
+106	73387 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+107	73404 11 0 0 0 0 1 0 0 0 0
+108	73415 737 0 3510 0 3.524169477305 28 0 2 15 17
+115	74152 11 0 0 0 0 1 0 0 0 0
+117	74163 111 1068 3323 3.200202800524 3.52407852282 4 94 94 376 35344
+118	74274 28 2869 2869 3.522100198024 3.522100198024 1 94 94 94 8836
+119	74302 28 2867 2867 3.522050198024 3.522050198024 1 94 94 94 8836
+120	74330 111 1068 3323 3.200202800524 3.52407852282 4 94 94 376 35344
+121	74441 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+122	74458 11 0 0 0 0 1 0 0 0 0
+123	74469 304 0 3512 0 3.52416958587 12 0 2 7 9
+130	74773 11 0 0 0 0 1 0 0 0 0
+132	74784 219 893 2525 3.198616527392 3.520445623949 8 94 94 752 70688
+133	75003 55 1386 2570 3.20212868366 3.520726616479 2 94 94 188 17672
+134	75058 56 1202 2569 3.201218914794 3.520676616479 2 94 94 188 17672
+135	75114 247 893 3121 3.198616527392 3.523064952047 9 94 94 846 79524
+136	75361 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+137	75378 11 0 0 0 0 1 0 0 0 0
+138	75389 593 0 3129 0 3.523065235891 23 0 2 13 17
+145	75982 11 0 0 0 0 1 0 0 0 0
+147	75993 165 917 3459 3.198616858869 3.524159662748 6 94 94 564 53016
+148	76158 56 1605 3544 3.203276032021 3.524349662748 2 94 94 188 17672
+149	76214 56 1430 3003 3.202220022126 3.522767831829 2 94 94 188 17672
+150	76270 165 917 3459 3.198616858869 3.524159662748 6 94 94 564 53016
+151	76435 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+152	76452 11 0 0 0 0 1 0 0 0 0
+153	76463 518 0 3545 0 3.524349662748 20 0 2 12 16
+160	76981 11 0 0 0 0 1 0 0 0 0
+162	76992 83 2814 3329 3.521950149216 3.524078602746 3 94 94 282 26508
+165	77075 83 2814 3329 3.521950149216 3.524078602746 3 94 94 282 26508
+166	77158 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+167	77175 11 0 0 0 0 1 0 0 0 0
+168	77186 171 0 3328 0 3.524078602746 7 0 1 3 3
+175	77357 11 0 0 0 0 1 0 0 0 0
+177	77368 82 1086 3411 3.200202858024 3.524079079274 3 94 94 282 26508
+180	77450 110 1086 3411 3.200202858024 3.524079079274 4 94 94 376 35344
+181	77560 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+182	77577 11 0 0 0 0 1 0 0 0 0
+183	77588 249 0 3507 0 3.524169387641 10 0 1 5 5
+190	77837 11 0 0 0 0 1 0 0 0 0
+192	77848 193 899 2687 3.198616656616 3.52167103368 7 94 94 658 61852
+193	78041 56 1649 2254 3.203577099882 3.518067884577 2 94 94 188 17672
+194	78097 56 1434 2253 3.202519302494 3.518017884577 2 94 94 188 17672
+195	78153 248 899 3128 3.198616656616 3.523065223549 9 94 94 846 79524
+196	78401 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+197	78418 11 0 0 0 0 1 0 0 0 0
+198	78429 598 0 3130 0 3.523065273502 23 0 2 13 17
+205	79027 11 0 0 0 0 1 0 0 0 0
+207	79038 112 1056 3397 3.200202767906 3.524079039204 4 94 94 376 35344
+210	79150 112 1056 3397 3.200202767906 3.524079039204 4 94 94 376 35344
+211	79262 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+212	79279 11 0 0 0 0 1 0 0 0 0
+213	79290 253 0 3504 0 3.524169297933 10 0 1 5 5
+220	79543 11 0 0 0 0 1 0 0 0 0
+222	79554 54 1741 2795 3.2042206052 3.521950103775 2 94 94 188 17672
+225	79608 82 1741 3419 3.2042206052 3.524079173766 3 94 94 282 26508
+226	79690 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+227	79707 11 0 0 0 0 1 0 0 0 0
+228	79718 223 0 3465 0 3.524159701968 9 0 1 4 4
+235	79941 11 0 0 0 0 1 0 0 0 0
+237	79952 56 1699 2801 3.204220335496 3.521950109527 2 94 94 188 17672
+238	80008 28 3253 3253 3.523215361208 3.523215361208 1 94 94 94 8836
+239	80036 28 2995 2995 3.522430601532 3.522430601532 1 94 94 94 8836
+240	80064 56 1699 2801 3.204220335496 3.521950109527 2 94 94 188 17672
+241	80120 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+242	80137 11 0 0 0 0 1 0 0 0 0
+243	80148 226 0 3445 0 3.524159361208 9 0 2 5 7
+250	80374 11 0 0 0 0 1 0 0 0 0
+252	80385 168 1074 3013 3.200202830635 3.523044360422 6 94 94 564 53016
+253	80553 28 3210 3210 3.523134360422 3.523134360422 1 94 94 94 8836
+254	80581 28 2737 2737 3.521712085185 3.521712085185 1 94 94 94 8836
+255	80609 168 1074 3013 3.200202830635 3.523044360422 6 94 94 564 53016
+256	80777 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+257	80794 11 0 0 0 0 1 0 0 0 0
+258	80805 468 0 3514 0 3.52416969191 18 0 2 10 12
+265	81273 11 0 0 0 0 1 0 0 0 0
+267	81284 56 3077 3405 3.523044762909 3.524079066486 2 94 94 188 17672
+270	81340 56 3077 3405 3.523044762909 3.524079066486 2 94 94 188 17672
+271	81396 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+272	81413 11 0 0 0 0 1 0 0 0 0
+273	81424 146 0 3519 0 3.524169812535 6 0 1 3 3
+280	81570 11 0 0 0 0 1 0 0 0 0
+282	81581 195 887 2334 3.198616463665 3.519012626946 7 94 94 658 61852
+283	81776 56 1158 2377 3.200973860478 3.519500798783 2 94 94 188 17672
+284	81832 56 1157 2376 3.200923860478 3.519450798783 2 94 94 188 17672
+285	81888 307 887 3423 3.198616463665 3.524079188818 11 94 94 1034 97196
+286	82195 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+287	82212 11 0 0 0 0 1 0 0 0 0
+288	82223 737 0 3516 0 3.524169735497 28 0 2 16 20
+295	82960 11 0 0 0 0 1 0 0 0 0
+297	82971 56 3061 3391 3.523044727442 3.524079028421 2 94 94 188 17672
+300	83027 56 3061 3391 3.523044727442 3.524079028421 2 94 94 188 17672
+301	83083 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+302	83100 11 0 0 0 0 1 0 0 0 0
+303	83111 146 0 3518 0 3.524169803342 6 0 1 3 3
+310	83257 11 0 0 0 0 1 0 0 0 0
+312	83268 140 1080 2453 3.200202848254 3.520445346451 5 94 94 470 44180
+313	83408 28 2623 2623 3.521005570485 3.521005570485 1 94 94 94 8836
+314	83436 28 2618 2618 3.520955570485 3.520955570485 1 94 94 94 8836
+315	83464 196 1080 3365 3.200202848254 3.524078917105 7 94 94 658 61852
+316	83660 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+317	83677 11 0 0 0 0 1 0 0 0 0
+318	83688 441 0 3468 0 3.52415990025 17 0 2 9 11
+325	84129 11 0 0 0 0 1 0 0 0 0
+327	84140 140 1020 3385 3.200202510658 3.524079026166 5 94 94 470 44180
+328	84280 28 3500 3500 3.524169026166 3.524169026166 1 94 94 94 8836
+329	84308 28 2667 2667 3.521252055669 3.521252055669 1 94 94 94 8836
+330	84336 168 1020 3385 3.200202510658 3.524079026166 6 94 94 564 53016
+331	84504 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+332	84521 11 0 0 0 0 1 0 0 0 0
+333	84532 469 0 3501 0 3.524169026166 18 0 2 10 12
+340	85001 11 0 0 0 0 1 0 0 0 0
+342	85012 194 911 3379 3.198616802156 3.524079016783 7 94 94 658 61852
+343	85206 27 959 959 3.199258174274 3.199258174274 1 94 94 94 8836
+344	85233 55 958 2622 3.199208174274 3.520997271288 2 94 94 188 17672
+345	85288 250 911 3379 3.198616802156 3.524079016783 9 94 94 846 79524
+346	85538 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+347	85555 11 0 0 0 0 1 0 0 0 0
+348	85566 625 0 3506 0 3.52416936255 24 0 2 13 15
+355	86191 11 0 0 0 0 1 0 0 0 0
+357	86202 223 881 2675 3.198616362094 3.521670784263 8 94 94 752 70688
+358	86425 56 1969 2910 3.205645635552 3.522120784263 2 94 94 188 17672
+359	86481 56 1442 2421 3.202620915856 3.519644018792 2 94 94 188 17672
+360	86537 251 881 2675 3.198616362094 3.521670784263 9 94 94 846 79524
+361	86788 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+362	86805 11 0 0 0 0 1 0 0 0 0
+363	86816 630 0 3125 0 3.523065114538 24 0 2 14 18
+370	87446 11 0 0 0 0 1 0 0 0 0
+372	87457 168 1092 2747 3.200202879168 3.521949716005 6 94 94 564 53016
+374	87625 28 3305 3305 3.523709400955 3.523709400955 1 94 94 94 8836
+375	87653 224 1092 3347 3.200202879168 3.524078801623 8 94 94 752 70688
+376	87877 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+377	87894 11 0 0 0 0 1 0 0 0 0
+378	87905 442 0 3469 0 3.524159945515 17 0 1 8 8
+385	88347 11 0 0 0 0 1 0 0 0 0
+387	88358 27 1122 1122 3.20020296007 3.20020296007 1 94 94 94 8836
+390	88385 55 1122 3097 3.20020296007 3.523044989889 2 94 94 188 17672
+391	88440 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+392	88457 11 0 0 0 0 1 0 0 0 0
+393	88468 195 0 3511 0 3.5241694774 8 0 1 4 4
+400	88663 11 0 0 0 0 1 0 0 0 0
+402	88674 196 1062 2495 3.200202779983 3.520445533132 7 94 94 658 61852
+404	88870 28 3313 3313 3.523807083834 3.523807083834 1 94 94 94 8836
+405	88898 251 1062 3136 3.200202779983 3.523065585981 9 94 94 846 79524
+406	89149 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+407	89166 11 0 0 0 0 1 0 0 0 0
+408	89177 575 0 3515 0 3.524169694043 22 0 1 11 11
+415	89752 11 0 0 0 0 1 0 0 0 0
+417	89763 84 1098 3373 3.200202885022 3.524078958483 3 94 94 282 26508
+420	89847 84 1098 3373 3.200202885022 3.524078958483 3 94 94 282 26508
+421	89931 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+422	89948 11 0 0 0 0 1 0 0 0 0
+423	89959 253 0 3509 0 3.524169456691 10 0 1 5 5
+430	90212 11 0 0 0 0 1 0 0 0 0
+432	90223 84 2789 3335 3.521950053738 3.524078633937 3 94 94 282 26508
+435	90307 84 2789 3335 3.521950053738 3.524078633937 3 94 94 282 26508
+436	90391 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+437	90408 11 0 0 0 0 1 0 0 0 0
+438	90419 280 0 3470 0 3.52416016821 11 0 1 5 5
+445	90699 11 0 0 0 0 1 0 0 0 0
+447	90710 84 1693 3447 3.204220261749 3.524159475298 3 94 94 282 26508
+450	90794 84 1693 3447 3.204220261749 3.524159475298 3 94 94 282 26508
+451	90878 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+452	90895 11 0 0 0 0 1 0 0 0 0
+453	90906 226 0 3446 0 3.524159475298 9 0 1 4 4
+460	91132 11 0 0 0 0 1 0 0 0 0
+466	91143 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+467	91160 11 0 0 0 0 1 0 0 0 0
+468	91171 65 0 3104 0 3.523045069654 3 0 1 1 1
+475	91236 11 0 0 0 0 1 0 0 0 0
+477	91247 251 875 2681 3.198616312741 3.521670926185 9 94 94 846 79524
+478	91498 56 1844 2912 3.204591447199 3.522120926185 2 94 94 188 17672
+479	91554 55 1438 2614 3.20261210556 3.520864567236 2 94 94 188 17672
+480	91609 279 875 2681 3.198616312741 3.521670926185 10 94 94 940 88360
+481	91888 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+482	91905 11 0 0 0 0 1 0 0 0 0
+483	91916 683 0 3122 0 3.523064972616 26 0 2 15 19
+490	92599 11 0 0 0 0 1 0 0 0 0
+492	92610 112 1044 2537 3.200202674439 3.520445632541 4 94 94 376 35344
+494	92722 28 2999 2999 3.522517475481 3.522517475481 1 94 94 94 8836
+495	92750 112 1044 2537 3.200202674439 3.520445632541 4 94 94 376 35344
+496	92862 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+497	92879 11 0 0 0 0 1 0 0 0 0
+498	92890 415 0 3505 0 3.524169318678 16 0 1 8 8
+505	93305 11 0 0 0 0 1 0 0 0 0
+507	93316 112 1026 2471 3.200202513968 3.520445485871 4 94 94 376 35344
+509	93428 28 2671 2671 3.521489869663 3.521489869663 1 94 94 94 8836
+510	93456 168 1026 3421 3.200202513968 3.524079183296 6 94 94 564 53016
+511	93624 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+512	93641 11 0 0 0 0 1 0 0 0 0
+513	93652 469 0 3502 0 3.524169202667 18 0 1 9 9
+520	94121 11 0 0 0 0 1 0 0 0 0
+522	94132 84 1711 3453 3.204220471484 3.524159580237 3 94 94 282 26508
+525	94216 84 1711 3453 3.204220471484 3.524159580237 3 94 94 282 26508
+526	94300 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+527	94317 11 0 0 0 0 1 0 0 0 0
+528	94328 227 0 3452 0 3.524159580237 9 0 1 4 4
+535	94555 11 0 0 0 0 1 0 0 0 0
+540	94566 28 3099 3099 3.523044990136 3.523044990136 1 94 94 94 8836
+541	94594 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+542	94611 11 0 0 0 0 1 0 0 0 0
+543	94622 65 0 3098 0 3.523044990136 3 0 1 1 1
+550	94687 11 0 0 0 0 1 0 0 0 0
+552	94698 166 1116 2753 3.200202945535 3.52194974314 6 94 94 564 53016
+554	94864 28 3301 3301 3.523620797955 3.523620797955 1 94 94 94 8836
+555	94892 222 1116 3349 3.200202945535 3.524078838851 8 94 94 752 70688
+556	95114 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+557	95131 11 0 0 0 0 1 0 0 0 0
+558	95142 438 0 3467 0 3.524159894199 17 0 1 8 8
+565	95580 11 0 0 0 0 1 0 0 0 0
+567	95591 112 1296 2765 3.201918663458 3.521949827494 4 94 94 376 35344
+569	95703 28 3297 3297 3.523354853424 3.523354853424 1 94 94 94 8836
+570	95731 168 1296 3363 3.201918663458 3.524078909064 6 94 94 564 53016
+571	95899 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+572	95916 11 0 0 0 0 1 0 0 0 0
+573	95927 389 0 3466 0 3.524159822536 15 0 1 7 7
+580	96316 11 0 0 0 0 1 0 0 0 0
+582	96327 112 1266 2759 3.201918589402 3.521949791539 4 94 94 376 35344
+585	96439 140 1266 3403 3.201918589402 3.524079064659 5 94 94 470 44180
+586	96579 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+587	96596 11 0 0 0 0 1 0 0 0 0
+588	96607 389 0 3464 0 3.524159684482 15 0 1 7 7
+595	96996 11 0 0 0 0 1 0 0 0 0
+597	97007 195 1050 3341 3.200202675702 3.524078648544 7 94 94 658 61852
+599	97202 28 3309 3309 3.523711128925 3.523711128925 1 94 94 94 8836
+600	97230 195 1050 3341 3.200202675702 3.524078648544 7 94 94 658 61852
+601	97425 17 0 0 0 0 1 2000000 2000000 2000000 4000000000000
+602	97442 11 0 0 0 0 1 0 0 0 0
+603	97453 413 0 3508 0 3.524169424404 16 0 1 8 8
+606	97866 2486 0 3433 0 3.524079589624 94 0 5 72 272
+607	100352 1418 0 3433 0 3.524079589624 54 0 2 30 38
+609	101770 67 830 2125 3.197622049417 3.516831150965 2 0 2355.8225512781 2355.8225512781 5549899.8931105
+611	101837 41 1103 1103 3.200202927013 3.200202927013 1 25.888979464756 25.888979464756 25.888979464756 670.23925772656
+613	101878 184 0 3513 0 3.524169685589 8 0 0 0 0
+614	102062 184 0 3513 0 3.524169685589 8 0 1 3 3
+616	102246 27 2978 2978 3.522122609143 3.522122609143 1 0 0 0 0
+620	102273 830 0 3520 0 3.524169819286 32 0 0 0 0
+621	103103 614 0 3520 0 3.524169819286 24 0 1 11 11
+623	103717 53 980 2638 3.199258981738 3.521006210719 2 0 0 0 0
+625	103770 41 1127 1127 3.200202981738 3.200202981738 1 25.279412697566 25.279412697566 25.279412697566 639.04870633385
+627	103811 346 0 3351 0 3.524078843026 14 0 0 0 0
+628	104157 238 0 3350 0 3.524078843026 10 0 1 4 4
+630	104395 27 2879 2879 3.522100635802 3.522100635802 1 0 0 0 0
+632	104422 41 3054 3054 3.523044635802 3.523044635802 1 9.5968934209686 9.5968934209686 9.5968934209686 92.100363333431
+634	104463 400 0 3517 0 3.524169747572 16 0 0 0 0
+635	104863 292 0 3517 0 3.524169747572 12 0 1 5 5
+637	105155 27 2875 2875 3.522100587714 3.522100587714 1 0 0 0 0
+639	105182 41 3030 3030 3.523044587714 3.523044587714 1 10.106953333425 10.106953333425 10.106953333425 102.15050568403
+641	105223 830 0 3503 0 3.524169227625 32 0 0 0 0
+642	106053 614 0 3503 0 3.524169227625 24 0 1 11 11
+644	106667 53 965 2645 3.199258664145 3.521006512882 2 0 0 0 0
+646	106720 41 1037 1037 3.200202664145 3.200202664145 1 29.620241996529 29.620241996529 29.620241996529 877.35873593294
+648	106761 2498 0 3510 0 3.524169477305 94 0 5 81 221
+649	109259 1474 0 3510 0 3.524169477305 56 0 2 29 33
+651	110733 67 838 2133 3.197672677547 3.516881777161 2 0 2355.8225655514 2355.8225655514 5549899.9603611
+653	110800 40 904 904 3.198616677547 3.198616677547 1 27.460887054142 27.460887054142 27.460887054142 754.10031780032
+655	110840 1038 0 3512 0 3.52416958587 40 0 5 42 146
+656	111878 608 0 3512 0 3.52416958587 24 0 2 13 17
+658	112486 53 970 2641 3.199258800524 3.521006259663 2 0 0 0 0
+660	112539 41 1067 1067 3.200202800524 3.200202800524 1 27.486920119716 27.486920119716 27.486920119716 755.53077766763
+662	112580 2246 0 3129 0 3.523065235891 86 0 5 84 300
+663	114826 1186 0 3129 0 3.523065235891 46 0 2 26 34
+665	116012 65 836 2131 3.197672527392 3.5168816326 2 0 2355.8225242666 2355.8225242666 5549899.765842
+667	116077 40 892 892 3.198616527392 3.198616527392 1 29.833771861628 29.833771861628 29.833771861628 890.05394349164
+669	116117 1894 0 3545 0 3.524349662748 72 0 5 87 295
+670	118011 1036 0 3545 0 3.524349662748 40 0 2 22 28
+672	119047 66 840 2135 3.197672858869 3.51688196267 2 0 2355.8225346505 2355.8225346505 5549899.8147673
+674	119113 40 916 916 3.198616858869 3.198616858869 1 25.258053366225 25.258053366225 25.258053366225 637.96925985108
+676	119153 502 0 3329 0 3.524078602746 20 0 0 0 0
+677	119655 342 0 3328 0 3.524078602746 14 0 1 6 6
+679	119997 27 2637 2637 3.521006149216 3.521006149216 1 0 0 0 0
+681	120024 41 2813 2813 3.521950149216 3.521950149216 1 9.8322969942821 9.8322969942821 9.8322969942821 96.674064183769
+683	120065 710 0 3507 0 3.524169387641 28 0 0 0 0
+684	120775 498 0 3507 0 3.524169387641 20 0 1 9 9
+686	121273 53 973 2883 3.199258858024 3.522100760457 2 0 0 0 0
+688	121326 41 1085 1085 3.200202858024 3.200202858024 1 26.723929096118 26.723929096118 26.723929096118 714.16838633432
+690	121367 2160 0 3130 0 3.523065273502 82 0 5 82 286
+691	123527 1196 0 3130 0 3.523065273502 46 0 2 26 34
+693	124723 66 837 2132 3.197672656616 3.51688175745 2 0 2355.8225565476 2355.8225565476 5549899.9179383
+695	124789 40 898 898 3.198616656616 3.198616656616 1 27.755256817968 27.755256817968 27.755256817968 770.35428103136
+697	124829 722 0 3504 0 3.524169297933 28 0 0 0 0
+698	125551 506 0 3504 0 3.524169297933 20 0 1 9 9
+700	126057 53 968 2881 3.199258767906 3.522100727636 2 0 0 0 0
+702	126110 41 1055 1055 3.200202767906 3.200202767906 1 27.951521934972 27.951521934972 27.951521934972 781.28757848121
+704	126151 604 0 3465 0 3.524159701968 24 0 0 0 0
+705	126755 446 0 3465 0 3.524159701968 18 0 1 8 8
+707	127201 52 1615 2633 3.2032766052 3.521006103775 2 0 0 0 0
+709	127253 39 1740 1740 3.2042206052 3.2042206052 1 9.9187879017034 9.9187879017034 9.9187879017034 98.382353438977
+711	127292 884 0 3543 0 3.524229361208 34 0 5 44 156
+712	128176 452 0 3445 0 3.524159361208 18 0 2 10 14
+714	128628 54 1608 2634 3.203276335496 3.521006109527 2 0 0 0 0
+716	128682 41 1698 1698 3.204220335496 3.204220335496 1 14.771226343199 14.771226343199 14.771226343199 218.18912768202
+718	128723 1584 0 3514 0 3.52416969191 60 0 5 65 201
+719	130307 936 0 3514 0 3.52416969191 36 0 2 19 23
+721	131243 53 971 2396 3.199258830635 3.519501627179 2 0 0 0 0
+723	131296 41 1073 1073 3.200202830635 3.200202830635 1 27.079012580063 27.079012580063 27.079012580063 733.27292231122
+725	131337 400 0 3519 0 3.524169812535 16 0 0 0 0
+726	131737 292 0 3519 0 3.524169812535 12 0 1 5 5
+728	132029 27 2884 2884 3.522100762909 3.522100762909 1 0 0 0 0
+730	132056 41 3076 3076 3.523044762909 3.523044762909 1 7.4253927126591 7.4253927126591 7.4253927126591 55.136456937211
+732	132097 2552 0 3516 0 3.524169735497 96 0 5 74 274
+733	134649 1474 0 3516 0 3.524169735497 56 0 2 31 39
+735	136123 66 835 2130 3.197672463665 3.516881562646 2 0 2355.822570223 2355.822570223 5549899.9823723
+737	136189 40 886 886 3.198616463665 3.198616463665 1 31.076659707033 31.076659707033 31.076659707033 965.75877854674
+739	136229 400 0 3518 0 3.524169803342 16 0 0 0 0
+740	136629 292 0 3518 0 3.524169803342 12 0 1 5 5
+742	136921 27 2880 2880 3.522100727442 3.522100727442 1 0 0 0 0
+744	136948 41 3060 3060 3.523044727442 3.523044727442 1 7.9023949510094 7.9023949510094 7.9023949510094 62.447845961739
+746	136989 1530 0 3468 0 3.52415990025 58 0 5 36 136
+747	138519 882 0 3468 0 3.52415990025 34 0 2 18 22
+749	139401 53 972 2383 3.199258848254 3.519501346451 2 0 0 0 0
+751	139454 41 1079 1079 3.200202848254 3.200202848254 1 26.848928016103 26.848928016103 26.848928016103 720.86493561387
+753	139495 1478 0 3501 0 3.524169026166 56 0 5 51 151
+754	140973 938 0 3501 0 3.524169026166 36 0 2 18 20
+756	141911 53 962 2388 3.199258510658 3.519501508114 2 0 0 0 0
+758	141964 41 1019 1019 3.200202510658 3.200202510658 1 32.885161951485 32.885161951485 32.885161951485 1081.4338765754
+760	142005 2106 0 3506 0 3.52416936255 80 0 5 75 211
+761	144111 1250 0 3506 0 3.52416936255 48 0 2 25 29
+763	145361 67 839 2134 3.197672802156 3.516881901023 2 0 2355.8225710644 2355.8225710644 5549899.9863364
+765	145428 40 910 910 3.198616802156 3.198616802156 1 25.888979464756 25.888979464756 25.888979464756 670.23925772656
+767	145468 2554 0 3251 0 3.523155114538 96 0 5 144 432
+768	148022 1260 0 3125 0 3.523065114538 48 0 2 28 36
+770	149282 67 834 2129 3.197672362094 3.516881464925 2 0 2355.8225418093 2355.8225418093 5549899.8484969
+772	149349 40 880 880 3.198616362094 3.198616362094 1 33.519952653574 33.519952653574 33.519952653574 1123.5872258979
+774	149389 1370 0 3469 0 3.524159945515 52 0 2 6 8
+775	150759 884 0 3469 0 3.524159945515 34 0 1 16 16
+777	151643 53 974 2384 3.199258879168 3.519501449361 2 0 0 0 0
+779	151696 40 1091 1091 3.200202879168 3.200202879168 1 26.45939145613 26.45939145613 26.45939145613 700.09939622871
+781	151736 496 0 3511 0 3.5241694774 20 0 0 0 0
+782	152232 390 0 3511 0 3.5241694774 16 0 1 7 7
+784	152622 52 979 2892 3.19925896007 3.522100989889 2 0 0 0 0
+786	152674 40 1121 1121 3.20020296007 3.20020296007 1 25.515676953808 25.515676953808 25.515676953808 651.04977041108
+788	152714 1688 0 3515 0 3.524169694043 64 0 2 5 9
+789	154402 1150 0 3515 0 3.524169694043 44 0 1 21 21
+791	155552 53 969 2259 3.199258779983 3.518068337488 2 0 0 0 0
+793	155605 41 1061 1061 3.200202779983 3.200202779983 1 27.776597232382 27.776597232382 27.776597232382 771.53935380999
+795	155646 668 0 3509 0 3.524169456691 26 0 0 0 0
+796	156314 506 0 3509 0 3.524169456691 20 0 1 9 9
+798	156820 53 975 2878 3.199258885022 3.522100634322 2 0 0 0 0
+800	156873 41 1097 1097 3.200202885022 3.200202885022 1 26.387553321715 26.387553321715 26.387553321715 696.30297030634
+802	156914 722 0 3470 0 3.52416016821 28 0 0 0 0
+803	157636 560 0 3470 0 3.52416016821 22 0 1 10 10
+805	158196 54 1415 2632 3.202130423521 3.521006053738 2 0 0 0 0
+807	158250 41 2788 2788 3.521950053738 3.521950053738 1 11.077093970784 11.077093970784 11.077093970784 122.70201083757
+809	158291 614 0 3447 0 3.524159475298 24 0 0 0 0
+810	158905 452 0 3446 0 3.524159475298 18 0 1 8 8
+812	159357 54 1607 2629 3.203276261749 3.521005999782 2 0 0 0 0
+814	159411 41 1692 1692 3.204220261749 3.204220261749 1 16.639283615367 16.639283615367 16.639283615367 276.86575923262
+816	159452 130 0 3104 0 3.523045069654 6 0 0 0 0
+817	159582 130 0 3104 0 3.523045069654 6 0 1 2 2
+819	159712 27 2990 2990 3.522123147779 3.522123147779 1 0 0 0 0
+823	159739 2604 0 3252 0 3.523194972616 98 0 5 112 360
+824	162343 1366 0 3122 0 3.523064972616 52 0 2 30 38
+826	163709 67 833 2128 3.197672312741 3.516881413903 2 0 2355.8225541269 2355.8225541269 5549899.9065328
+828	163776 39 874 874 3.198616312741 3.198616312741 1 35.01206607045 35.01206607045 35.01206607045 1225.8447705215
+830	163815 1208 0 3505 0 3.524169318678 46 0 3 25 57
+831	165023 830 0 3505 0 3.524169318678 32 0 1 15 15
+833	165853 53 966 2397 3.199258674439 3.519501632541 2 0 0 0 0
+835	165906 41 1043 1043 3.200202674439 3.200202674439 1 29.439596139283 29.439596139283 29.439596139283 866.68982084406
+837	165947 1370 0 3502 0 3.524169202667 52 0 3 31 59
+838	167317 938 0 3502 0 3.524169202667 36 0 1 17 17
+840	168255 53 963 2386 3.199258513968 3.519501485871 2 0 0 0 0
+842	168308 41 1025 1025 3.200202513968 3.200202513968 1 32.800103250568 32.800103250568 32.800103250568 1075.8467732479
+844	168349 616 0 3453 0 3.524159580237 24 0 0 0 0
+845	168965 454 0 3452 0 3.524159580237 18 0 1 8 8
+847	169419 54 1610 2631 3.203276471484 3.521006034362 2 0 0 0 0
+849	169473 41 1710 1710 3.204220471484 3.204220471484 1 11.746913499968 11.746913499968 11.746913499968 137.98997677573
+851	169514 184 0 3099 0 3.523044990136 8 0 0 0 0
+852	169698 130 0 3098 0 3.523044990136 6 0 1 2 2
+854	169828 27 2893 2893 3.522100990136 3.522100990136 1 0 0 0 0
+856	169855 41 3098 3098 3.523044990136 3.523044990136 1 5.0087331028408 5.0087331028408 5.0087331028408 25.087407295494
+858	169896 1358 0 3467 0 3.524159894199 52 0 2 6 8
+859	171254 876 0 3467 0 3.524159894199 34 0 1 16 16
+861	172130 52 978 2387 3.199258945535 3.51950150357 2 0 0 0 0
+863	172182 41 1115 1115 3.200202945535 3.200202945535 1 25.677847322609 25.677847322609 25.677847322609 659.35184312322
+865	172223 1156 0 3466 0 3.524159822536 44 0 2 6 8
+866	173379 778 0 3466 0 3.524159822536 30 0 1 14 14
+868	174157 54 1175 2394 3.200974663458 3.519501601763 2 0 0 0 0
+870	174211 41 1295 1295 3.201918663458 3.201918663458 1 25.327781435308 25.327781435308 25.327781435308 641.49651243476
+872	174252 1048 0 3464 0 3.524159684482 40 0 0 0 0
+873	175300 778 0 3464 0 3.524159684482 30 0 1 14 14
+875	176078 54 1170 2389 3.200974589402 3.519501527707 2 0 0 0 0
+877	176132 41 1265 1265 3.201918589402 3.201918589402 1 26.168226942548 26.168226942548 26.168226942548 684.77610131668
+879	176173 1310 0 3508 0 3.524169424404 50 0 3 17 37
+880	177483 826 0 3508 0 3.524169424404 32 0 1 15 15
+882	178309 53 967 2393 3.199258675702 3.519501587315 2 0 0 0 0
+884	178362 41 1049 1049 3.200202675702 3.200202675702 1 29.417692983987 29.417692983987 29.417692983987 865.40066050013

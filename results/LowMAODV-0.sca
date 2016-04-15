@@ -1,0 +1,20 @@
+version 2
+run LowMAODV-0-20160415-19:04:28-3036
+attr N 20
+attr configname LowMAODV
+attr datetime 20160415-19:04:28
+attr experiment LowMAODV
+attr inifile omnetpp.ini
+attr iterationvars $N=20
+attr iterationvars2 "$N=20, $repetition=0"
+attr measurement $N=20
+attr network MCProjectNetwork
+attr processid 3036
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar . 	N 	20
+scalar MCProjectNetwork 	hackForCreateResultsFolder 	0
