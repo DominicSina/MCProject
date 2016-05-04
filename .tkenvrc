@@ -1,4 +1,4 @@
 # Partial OMNeT++/Tkenv config file -- see $HOME/.tkenvrc as well
-config default-configname	{HighMAODV20}
+config default-configname	{HighMAODV}
 config default-runnumber	{0}
 
